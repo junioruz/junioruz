@@ -4,7 +4,7 @@ Welcome to my page!
 - 👀 I’m interested in Frontend/vuejs
 - 🌱 I’m currently learning JavaScript framework VueJs
 - 🗺 I am from  Namangan, Uzbekistan.
-- 📫 How to reach me t.me/umrbek_of, t.me/junior_developer
+- 📫 How to reach me t.me/umrbekOF
 
 ## 📈 GitHub Activity Graph:
   <table>
