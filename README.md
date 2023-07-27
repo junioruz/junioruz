@@ -1,10 +1,16 @@
-Hey! Nice to see you. 👋
-Welcome to my page!
-- 👋 Hi, I’m Umrbek
-- 👀 I’m interested in Frontend/vuejs
-- 🌱 I’m currently learning JavaScript framework VueJs
-- 🗺 I am from  Namangan, Uzbekistan.
-- 📫 How to reach me t.me/umrbekOF
+<h1 align="center">
+<!--   Yo, Wassup👋, I'm Umrbek -->
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=31&repeat=false&color=FCFFFE&width=600&pause=950&lines=Yo, Wassup👋, I'm Umrbek">
+</h1>
+<!-- <h1 align="center">
+	<img src="https://readme-typing-svg.demolab.com/?repeat=false&lines=Welcome+to+my+GitHub+Profile!">
+</h1> -->
+
+<h2> I'm a Software Engineer from Uzbekistan. </h2>
+- 👀 I’m interested in Frontend/vuejs <br>
+- 🌱 Currently learning JavaScript framework <b> VueJs </b><br>
+- 💬 Feel free to give any question related to <b>IT</b>  <br>
+- 📫 How to reach me <a href="https://t.me/umrbekOF">UmrbekOF</a> <br>
 
 ## 📈 GitHub Activity Graph:
   <table>
