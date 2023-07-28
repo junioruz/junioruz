@@ -1,6 +1,6 @@
 <h1 align="center">
 <!--   Yo, Wassup👋, I'm Umrbek -->
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=31&repeat=false&color=FCFFFE&width=600&pause=950&lines=Yo, Wassup👋, I'm Umrbek">
+  <img src="https://readme-typing-svg.demolab.com/?font=Handjet&duration=4000&weight=700&size=31&repeat=false&color=FCFFFE&width=600&pause=950&lines=Yo, Wassup👋, I'm Umrbek">
 </h1>
 <!-- <h1 align="center">
 	<img src="https://readme-typing-svg.demolab.com/?repeat=false&lines=Welcome+to+my+GitHub+Profile!">
