@@ -26,7 +26,6 @@ I am in love with the VUE ecosystem, web development and e-commerce.
 </div>
 
 </details>
-
 <details open>
 <summary><h3>🛠Favorite Tech</h3></summary>
 
