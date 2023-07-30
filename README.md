@@ -10,7 +10,7 @@
 > I started my coding journey in 2021 in university with C++. <br>
 I am in love with the VUE ecosystem, web development and e-commerce.
 
-<details open>
+<details close>
 <summary><h3>🐻 About Me</h3></summary>
 
 - ⌨️ My writings(in uzbek)
@@ -26,7 +26,7 @@ I am in love with the VUE ecosystem, web development and e-commerce.
 </div>
 
 </details>
-<details open>
+<details close>
 <summary><h3>🛠Favorite Tech</h3></summary>
 
 > Tools, languages, and other things that I like to work with.
